@@ -1,4 +1,4 @@
-{"version":"1","link":"https://github.com/TheDevel0per/no_grass/raw/main/No%20Grass.apk"}
+{"version":"1.1","link":"https://github.com/TheDevel0per/no_grass/raw/main/No%20Grass.apk"}
 
 
 
